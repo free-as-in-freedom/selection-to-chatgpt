@@ -10,6 +10,7 @@ Run the command `python3 select_to_chatgpt.py`, select some text, and hit the de
 - [chatgpt_wrapper](https://github.com/mmabrouk/chatgpt-wrapper) (Make sure to follow installation instructuins in the link)
 - A ChatGPT enabled [OpenAI](https://chat.openai.com/) account
 - [gevent](https://pypi.org/project/gevent/)
+- [Xclip/Xsel/X11](https://ostechnix.com/access-clipboard-contents-using-xclip-and-xsel-in-linux/)
 
 ## Todo:
-I'm currently working on making it work over TCP so that it can be used from a host machine to a remote server.
+I'm currently working on making it work over TCP so that it can be used from a host machine to a remote server. This code is currently contained in the `old-or-wip` directory.
